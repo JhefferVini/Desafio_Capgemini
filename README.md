@@ -21,6 +21,7 @@ Depois usa-se um for em buckets para contar a quantidade de anagramas formados d
 No final printa-se a variavel na qual foi armazenada o método.
 
 
-escadinha:
+Escadinha:
+
 A função escadinha usa um for a partir da quantidade de "*" digitada e é somada com mais 1 para gerar 
 o aspecto de escada a cada laço.
