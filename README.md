@@ -1,6 +1,6 @@
 # Desafio_Capgemini
 
-'password_validator':
+##password_validator:
 A função password_check verifica todas as caracteristicas que a senha precisa ter para ser validada:
 quantidade de caracteres, existencia de caractere númerico, existencia de pelo menos uma letra maiúscula e também minúscula,
 existencia de pelo um símbolo especial listado no código na lista SpecialSym.
@@ -11,7 +11,7 @@ if name == main executa a função main.
 
 
 
-'Anagrama':
+##Anagrama:
 from collections import Counter serva para contar os elementos que são armazenados como chaves de dicionario e essas
 contagens podem ser qualquer valor inteiro ou negativo
 A função count_anagrams na qual cada iteração em i gera tres iterações em j de acordo com o tamanho da string e frozenset armazena os
@@ -20,6 +20,6 @@ Depois usa-se um for em buckets para contar a quantidade de anagramas formados d
 No final printa-se a variavel na qual foi armazenada o método.
 
 
-'Escadinha':
+##Escadinha:
 A função escadinha usa um for a partir da quantidade de "*" digitada e é somada com mais 1 para gerar 
 o aspecto de escada a cada laço.
